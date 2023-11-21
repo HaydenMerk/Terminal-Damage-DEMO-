@@ -12,8 +12,8 @@ all code by Hayden Merk
 most textures by hayden merk
 
 
+![Screenshot 2023-01-27 10 03 21 AM](https://github.com/HaydenMerk/Terminal-Damage-DEMO-/assets/91197465/490589cb-ef57-420b-b827-0cc9f89109ca)
 
 
 
 
-![dev logo](https://github.com/HaydenMerk/Terminal-Damage-DEMO-/assets/91197465/7df25896-0198-4d65-9218-d749779e5348)
