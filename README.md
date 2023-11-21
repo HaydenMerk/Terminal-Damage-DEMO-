@@ -10,4 +10,10 @@ some textures made by derik martin.
 
 all code by Hayden Merk
 most textures by hayden merk
+
+
+
+
+
+
 ![dev logo](https://github.com/HaydenMerk/Terminal-Damage-DEMO-/assets/91197465/7df25896-0198-4d65-9218-d749779e5348)
